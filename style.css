@@ -1,0 +1,34 @@
+.display-5 {
+    font-family: "Libre Baskerville", serif;
+}
+
+.lead {
+    font-family: "Ropa Sans", sans-serif;
+}
+
+.col-10 > img {
+    border-radius: 5%;
+} 
+
+.heading {
+    background-image: url(./Images/Rectangle\ 1.png);
+    background-size: 100% 100%;
+    height: 80vh;
+}
+.all-about {
+    padding-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 50px;
+    height: 50vh;
+}
+.about {
+    border: 3px solid #8FABD4;
+    border-radius: 2%;
+    padding: 20px;
+    margin-top: 5px;
+    text-align: justify;
+}
+
+
+
